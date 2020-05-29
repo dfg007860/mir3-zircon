@@ -1,3 +1,3 @@
 # Legend of Mir 3 Zircon
 
-Visit our forum at [LOMCN](http://www.lomcn.org/forum/forumdisplay.php?735) for discussions, help, and updates.
+非常好用的c#代码学习，好好学习。好好修改。将是一个大片
